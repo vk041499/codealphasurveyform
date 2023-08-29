@@ -1,0 +1,30 @@
+*{
+
+}
+.lasth1{
+    margin-top: 15vh;
+    font-size: 2rem;
+}
+.submit{
+    font-size: 2rem;
+    color: white;
+    background-color: #CD6D4A;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 8rem;
+    margin-top: 50px;
+}
+.submit:hover{
+    cursor: pointer;
+
+}
+.lastpagecontainer
+{
+    /* margin: auto; */
+    height: 100vh;
+    justify-content: center;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
